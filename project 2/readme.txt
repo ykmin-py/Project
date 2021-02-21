@@ -16,4 +16,6 @@ Problem: This project is about utilizing the natural language processing to evau
 Methodologies: Twitter sediment analysis was performed using the TextBlob function. The support vector machine was also utilized to bluid own twitter sediment model. 
 Finally, unsupervised clustering analysis was performed the group tweet data into three clusters and compared to the results obtained from the TextBlob function. 
 
-Final results:
+Final results: The Twitter sediment result shows that 44.34% of the tweets is positive about the covid vaccine, while 37.23% is neutral about the covid vaccine and 18.43% is negative about the covid vaccine.
+
+
